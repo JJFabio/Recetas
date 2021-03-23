@@ -1,0 +1,13 @@
+Cada receta debe tener
+
+Titulo 
+Subtitulo
+Descripción
+Tiempo de elaboración
+Imágenes
+Ingredientes
+-Ingrediente
+-Cantidad
+
+
+
